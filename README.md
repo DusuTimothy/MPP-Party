@@ -2,13 +2,13 @@
 
 A modern, responsive political party website built with **React**, **Vite**, and **Tailwind CSS**, using **pnpm** as package manager.
 
-The website has been structured after the official **NITDA (National Information Technology Development Agency - [nitda.gov.ng](https://nitda.gov.ng/)) UI Architecture**, featuring Nigerian campaign and civic stock imagery, green-and-white federal party aesthetics, and a modern component structure.
+The website has UI Architecture**, featuring Nigerian campaign and civic stock imagery, green-and-white federal party aesthetics, and a modern component structure.
 
 ---
 
-## 🏛️ NITDA UI Architecture Mapping
+## UI Architecture Mapping
 
-| NITDA Section | MPP Component | Description |
+| | MPP Component | Description |
 | :--- | :--- | :--- |
 | **Top Bar Header** | [`Header.jsx`](file:///home/timothy-dusu/MPP-party/src/components/Header.jsx) | Email (`info@mpp-party.org`), call line (`+234 800 677 7278`), party slogan `"[Insert party slogan]"`, and 2027 election link |
 | **Main Navigation** | [`Header.jsx`](file:///home/timothy-dusu/MPP-party/src/components/Header.jsx) | Official Coat-of-Arms shield emblem logo, multi-tier dropdown menus, and red accent `"Join MPP"` CTA |
@@ -27,7 +27,7 @@ The website has been structured after the official **NITDA (National Information
 
 ---
 
-## 🎨 Color Palette & Branding
+## Color Palette & Branding
 
 - `'mpp-green': '#008751'` — Primary Nigerian green
 - `'mpp-green-dark': '#00563F'` (and `#014E2C`) — Secondary deep green accent
@@ -36,7 +36,7 @@ The website has been structured after the official **NITDA (National Information
 
 ---
 
-## 🚀 Running with pnpm
+## Running with pnpm
 
 ```bash
 # Install dependencies
